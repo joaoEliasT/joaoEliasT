@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, eu sou o João! 👋
 
 <!--
 **joaoEliasT/joaoEliasT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
